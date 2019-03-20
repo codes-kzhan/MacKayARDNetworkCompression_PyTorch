@@ -1,23 +1,21 @@
 # MacKayARDNetworkCompression_PyTorch
 
 + Table 1:
-
 	* lenet5/mnist_lenet5_map_avgover_alpha0.ipynb
 	* MAP: lenet5/mnist_lenet5_map_avgover_alpha1.py
 	* ARD: lenet5/mnist_lenet5_ard_valid_alphainf_resume.ipynb
 	
 + Fig. 2:
-
-	lenet5/mnist_lenet5_ard_valid_alphainf_resume.ipynb
+	 * lenet5/mnist_lenet5_ard_valid_alphainf_resume.ipynb
 	
 + Table 2:
-	lenet5/mnist_lenet5_ard_valid_alphainf_resume.ipynb
+	 * lenet5/mnist_lenet5_ard_valid_alphainf_resume.ipynb
 	
 + Fig. 3:
-	lenet5/mnist_lenet5_ard_valid_lambda_resume.ipynb
+	 * lenet5/mnist_lenet5_ard_valid_lambda_resume.ipynb
 	
 + Fig. 4:
-	lenet5/mnist_lenet5_ard_valid_lambda_resume.ipynb
+	 * lenet5/mnist_lenet5_ard_valid_lambda_resume.ipynb
 	
 + Table 4:
 
